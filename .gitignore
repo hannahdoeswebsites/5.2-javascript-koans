@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+>>>>>>> 76380ff81a2f1fab7b3f6d624a5ffa1cbe57956e
